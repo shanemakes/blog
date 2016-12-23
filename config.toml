@@ -6,8 +6,6 @@ copyright = "Shane Leonard"
 googleAnalytics = "UA-88753319-1"
 disqusShortname = "shaneleonard"
 
-publishDir = "docs"
-
 [Author]
     name = "Shane Leonard"
     profile = "https://github.com/shaneleonard"
