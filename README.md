@@ -1,6 +1,6 @@
 # Shane Makes
 
-Source code for the [Shane Makes](http://www.shaneleonard.me) blog, powered by [MkDocs](www.mkdocs.org).
+Source code for the [Shane Makes](http://www.shaneleonard.me) blog, powered by [Hugo](www.gohugo.io).
 
 DIY embedded systems projects, software development tips and techniques, tutorials, and engineering fun with Shane Leonard. Learn how to make polished, production-ready printed circuit boards and more.
 
