@@ -1,0 +1,38 @@
+baseurl = "http://shaneleonard.me"
+title = "Shane Makes"
+languageCode = "en-us"
+theme = "ghostwriter"
+copyright = "Shane Leonard"
+googleAnalytics = "UA-88753319-1"
+disqusShortname = "shaneleonard"
+
+publishDir = "docs"
+
+[Author]
+    name = "Shane Leonard"
+    profile = "https://github.com/shaneleonard"
+
+[Params]
+    intro = true
+    headline = "Shane Makes"
+    description = "DIY electronics, embedded software, and productivity tools."
+    github = "https://github.com/shanemakes"
+
+[Taxonomies]
+    tag = "tags"
+    series = "series"
+
+[[menu.main]]
+    name = "Blog"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Tutorials"
+    url = "/series"
+    weight = 3
+
+[[menu.main]]
+    name = "Projects"
+    url = "/project"
+    weight = 2
