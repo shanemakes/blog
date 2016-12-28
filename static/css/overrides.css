@@ -17,19 +17,20 @@ h1 {
     font-family: "Open Sans Condensed";
     font-size: 20px;
 }
-
-.site-title a 
+.site-nav a:hover
 {
-    font-family: "Roboto Slab";
+    border-bottom: 1px solid #900;
 }
-
-.site-title-wrapper {
-}  
-
 ul.site-nav
 {
     display: inline;
     margin-left: 10px;
+}
+
+ul, ol
+{
+    list-style-position: outside;
+    margin-left: 30px;
 }
 
 a, code, 
@@ -44,6 +45,17 @@ a, code,
 .post-content a:hover
 {
     border-bottom: 1px dotted #900;
+}
+
+.post-description
+{
+    text-transform: none;
+}
+
+.post-date:after, .blog-description:after
+{
+    border-bottom: 0px;
+    margin: 20px auto 0;
 }
 
 .site-title a,

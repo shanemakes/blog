@@ -32,7 +32,7 @@ Here's some `inline code` and below is some example html:
 
 # Section 2
 
-A *bunch* of examples of different **typesetting** features:
+A *bunch* of ~~examples~~ of different **typesetting** features:
 
 ## Bullet Lists and Numbered Lists
 

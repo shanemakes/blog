@@ -13,7 +13,7 @@ disqusShortname = "shane-makes"
 [Params]
     intro = true
     headline = "Shane Makes"
-    description = "DIY electronics, embedded software, and productivity tools."
+    description = "DIY electronics, embedded software, and productivity tools"
     github = "https://github.com/shanemakes"
 
 [Taxonomies]
