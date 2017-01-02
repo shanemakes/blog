@@ -1,7 +1,7 @@
 baseurl = "https://shanemakes.github.io/"
 title = "Shane Makes"
 languageCode = "en-us"
-theme = "ghostwriter"
+theme = "hugo-noteworthy"
 copyright = "Shane Leonard"
 googleAnalytics = "UA-88753319-2"
 disqusShortname = "shane-makes"
