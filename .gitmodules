@@ -4,3 +4,6 @@
 [submodule "themes/ghostwriter"]
 	path = themes/ghostwriter
 	url = git@github.com:jbub/ghostwriter.git
+[submodule "themes/hugo-noteworthy"]
+	path = themes/hugo-noteworthy
+	url = git@github.com:shanemakes/hugo-noteworthy.git
